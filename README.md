@@ -1,0 +1,1 @@
+This is just some code I made to find the news a bit more summarized with going on my phone. Still working on it but should be ready in a few so I'll update this then.

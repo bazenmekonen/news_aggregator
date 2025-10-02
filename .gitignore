@@ -1,0 +1,7 @@
+# Dependencies
+.venv/
+
+
+# Environement Variables
+.env
+.env.local
